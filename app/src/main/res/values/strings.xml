@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdColonyTesting</string>
+    <string name="button">Click For Ad</string>
+    <string name="test_text">AdColony Ad Testing</string>
+    <string name="secret_key">b6pvycf3</string>
+    <string name="API_key">d0c9rsw0kghqmq3499gntx9zvh7t6b7w</string>
+</resources>
